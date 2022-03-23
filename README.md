@@ -9,10 +9,10 @@ NOTE: I chose to keep orochi entirely in hiragana/kanji and no katakana for my o
 
 I made my raw files with parsing in mind:
 
-`｜` - A newline within the same dialog box. (Keep in mind this pipe is almost always the japanese version pipe.
+`｜` - A newline within the same dialog box. (Keep in mind this pipe is almost always the japanese version pipe.)
 
 `/` - A character who is talking as part of the same sequence
 
 `=` - A new sequence/category of dialogs
 
-`\n` (and none of the above) - A new dialog
+`\n` (and none of the above) - A new dialog (unless empty line)
